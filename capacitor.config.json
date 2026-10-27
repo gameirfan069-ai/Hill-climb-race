@@ -1,0 +1,6 @@
+{
+  "appId": "com.ridgerush.racing",
+  "appName": "RidgeRush Racing",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
